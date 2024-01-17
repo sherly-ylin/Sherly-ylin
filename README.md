@@ -1,6 +1,4 @@
-### Hi there 👋
-
-##### 🤔 Currently trying to do something
+### Hi there
 <!--
 **sherly-ylin/Sherly-ylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
